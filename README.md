@@ -1,3 +1,11 @@
+Mata Kuliah	     : Pengolahan Citra Digital
+Kelas	         : IFD51
+Prodi	         : S1 PJJ Informatika
+Nama Mahasiswa	 : Ahmad Fatoni
+NIM	             : 200401010148
+Dosen	         : Alun Sujjada, S.Kom., M.T
+---
+
 # Jawaban UTS_Pengolahan Citra_IFD51
 1.Image enhancement adalah proses untuk memperbaiki kualitas visual gambar sehingga lebih mudah dipahami atau lebih enak dipandang. Tujuan utamanya adalah menonjolkan detail yang mungkin tersembunyi, meningkatkan perbedaan terang dan gelap (kontras), atau mengurangi gangguan seperti noise. Proses ini dilakukan tanpa mengubah informasi utama dalam gambar, tetapi membantu elemen-elemen penting terlihat lebih jelas.
 

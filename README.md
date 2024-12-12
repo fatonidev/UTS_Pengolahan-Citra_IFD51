@@ -1,9 +1,16 @@
-Mata Kuliah	     : Pengolahan Citra Digital
-Kelas	         : IFD51
-Prodi	         : S1 PJJ Informatika
-Nama Mahasiswa	 : Ahmad Fatoni
-NIM	             : 200401010148
-Dosen	         : Alun Sujjada, S.Kom., M.T
+# Informasi Mata Kuliah
+
+Berikut adalah informasi terkait mata kuliah yang diambil:
+
+| Keterangan        | Detail                                 |
+|-------------------|----------------------------------------|
+| **Mata Kuliah**    | Pengolahan Citra Digital               |
+| **Kelas**          | IFD51                                  |
+| **Prodi**          | S1 PJJ Informatika                     |
+| **Nama Mahasiswa** | Ahmad Fatoni                           |
+| **NIM**            | 200401010148                           |
+| **Dosen**          | Alun Sujjada, S.Kom., M.T              |
+
 ---
 
 # Jawaban UTS_Pengolahan Citra_IFD51

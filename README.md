@@ -30,10 +30,13 @@ Berikut adalah informasi terkait mata kuliah yang diambil:
    ![3. Gambar Hasil contrast 1.5 Dengan Perbandingan Histogram Equalization](3.Hasil_Citra_Contrast1,5_Dan_Perbandingan_Histogram.png)
 
    a. **Citra Asli**
+
    Gambar asli memperlihatkan intensitas abu-abu sebagaimana adanya tanpa perubahan. Sebagian area mungkin terlihat kurang jelas karena distribusi intensitas yang belum dioptimalkan.
 
    b. **Citra Setelah Penyesuaian Kontras**
+
    Dengan menyesuaikan tingkat kontras hingga 1.5, perbedaan antara bagian terang dan gelap pada gambar menjadi lebih mencolok. Hal ini membantu memperjelas elemen visual yang mungkin sebelumnya kurang terlihat dalam citra asli.
 
    c. **Citra Setelah Histogram Equalization**
+   
    Pada gambar ini, distribusi intensitas telah diatur ulang menggunakan metode histogram equalization. Hasilnya, detail gambar menjadi lebih jelas karena intensitas cahaya tersebar secara merata di seluruh rentang. Gambar pun tampak lebih cerah dan kontrasnya lebih seimbang.
